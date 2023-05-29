@@ -1,0 +1,22 @@
+/*input[type='text'] {
+    with:30%
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+*/
+
+.botao:hover {
+    background: #444;
+}
+.fundo-escuro{
+    background: #111;
+    color: #fff;
+}
+.problema {
+    background: red;
+    color:cornsilk;
+    padding: 5px;
+    margin: 5px;
+}
